@@ -25,7 +25,8 @@
       "features": {
         "maintenance_mode": false
       },
-      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json"
+      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json",
+      "term_url":"https://metfone-pos.com/terms"
     },
     "Nemo.POS": {
       "environments": {
@@ -51,7 +52,8 @@
       "features": {
         "maintenance_mode": false
       },
-      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json"
+      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json",
+      "term_url":"https://metfone-pos.com/terms"
     }
   }
 }
