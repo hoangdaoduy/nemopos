@@ -23,7 +23,7 @@
         }
       },
       "features": {
-        "maintenance_mode": false
+        "maintenance_mode": true
       },
       "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json"
     },
