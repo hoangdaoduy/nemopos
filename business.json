@@ -1,0 +1,76 @@
+{
+  "business_types": [
+    {
+      "value": "retail",
+      "labels": {
+        "vi": "Tạp hóa - Bán lẻ",
+        "en": "Grocery - Retail",
+        "km": "ការលក់រាយ - ទំនិញទូទៅ",
+        "my": "ကုန်စုံဆိုင် - လက်လီအရောင်း"
+      }
+    },
+    {
+      "value": "accommodation",
+      "labels": {
+        "vi": "Khách sạn - Nhà nghỉ - Resort",
+        "en": "Hotel - Guest House - Resort",
+        "km": "សណ្ឋាគារ - ផ្ទះសំណាក់ - រីសត",
+        "my": "ဟိုတယ် - တည်းခိုခန်း - အပန်းဖြေစခန်း"
+      }
+    },
+    {
+      "value": "fashion",
+      "labels": {
+        "vi": "Thời trang - Phụ kiện",
+        "en": "Fashion - Accessories",
+        "km": "សម្លៀកបំពាក់ - គ្រឿងបន្លាស់",
+        "my": "ဖက်ရှင် - အသုံးအဆောင်ပစ္စည်းများ"
+      }
+    },
+    {
+      "value": "restaurant",
+      "labels": {
+        "vi": "Nhà hàng - Quán ăn",
+        "en": "Restaurant - Eatery",
+        "km": "ភោជនីយដ្ឋាន - ហាងបាយ",
+        "my": "စားသောက်ဆိုင်"
+      }
+    },
+    {
+      "value": "cosmetic",
+      "labels": {
+        "vi": "Mỹ phẩm - Spa",
+        "en": "Cosmetics - Spa",
+        "km": "គ្រឿងសម្អាង - ស្ប៉ា",
+        "my": "အလှကုန် - စပါး"
+      }
+    },
+    {
+      "value": "electronics",
+      "labels": {
+        "vi": "Điện máy - Điện thoại",
+        "en": "Electronics - Phones",
+        "km": "គ្រឿងអេឡិចត្រូនិច - ទូរស័ព្ទ",
+        "my": "လျှပ်စစ်ပစ္စည်း - ဖုန်း"
+      }
+    },
+    {
+      "value": "pharmacy",
+      "labels": {
+        "vi": "Hiệu thuốc - Phòng khám",
+        "en": "Pharmacy - Clinic",
+        "km": "ឱសថស្ថាន - គ្លីនិក",
+        "my": "ဆေးဆိုင် - ဆေးခန်း"
+      }
+    },
+    {
+      "value": "other",
+      "labels": {
+        "vi": "Khác",
+        "en": "Other",
+        "km": "ផ្សេងៗ",
+        "my": "အခြား"
+      }
+    }
+  ]
+}
