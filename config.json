@@ -1,3 +1,57 @@
 {
-  "base_url":"https://pos-core-api.metfone-pos.cloud/"
+  "base_url":"https://pos-core-api.metfone-pos.cloud/",
+  "partners": {
+    "Metfone.POS": {
+      "environments": {
+        "production": {
+          "ios": {
+            "base_url": "https://pos-core-api.metfone-pos.cloud/",
+            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "min_version": "1.0.0",
+            "latest_version": "1.0.0",
+            "force_update": false,
+            "store_url": "https://apps.apple.com/app/id..."
+          },
+          "android": {
+            "base_url": "https://pos-core-api.metfone-pos.cloud/",
+            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "min_version": "1.0.0",
+            "latest_version": "1.0.0",
+            "force_update": false,
+            "store_url": "https://play.google.com/store/apps/details?id..."
+          }
+        }
+      },
+      "features": {
+        "maintenance_mode": false
+      },
+      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json"
+    },
+    "Nemo.POS": {
+      "environments": {
+        "production": {
+          "ios": {
+            "base_url": "https://pos-core-api.metfone-pos.cloud/",
+            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "min_version": "1.0.0",
+            "latest_version": "1.0.0",
+            "force_update": false,
+            "store_url": "https://apps.apple.com/app/id..."
+          },
+          "android": {
+            "base_url": "https://pos-core-api.metfone-pos.cloud/",
+            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "min_version": "1.0.0",
+            "latest_version": "1.0.0",
+            "force_update": false,
+            "store_url": "https://play.google.com/store/apps/details?id..."
+          }
+        }
+      },
+      "features": {
+        "maintenance_mode": false
+      },
+      "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json"
+    }
+  }
 }
