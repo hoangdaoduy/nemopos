@@ -26,7 +26,7 @@
         "maintenance_mode": false
       },
       "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json",
-      "term_url":"https://metfone-pos.com/terms",
+      "term_url":"https://terms.metfone-pos.cloud/",
       "phone_support":"190081xx",
       "email_support":"support@metfone-pos.com",
       "docs_url":"https://metfone-pos.com/docs"
