@@ -65,16 +65,16 @@
       "environments": {
         "production": {
           "ios": {
-            "base_url": "https://pos-core-api.metfone-pos.cloud/",
-            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "base_url": "https://pos-core-api.nemoditech.vn/",
+            "regist_url": "https://pos-manager-api.nemoditech.vn/api/shops",
             "min_version": "1.0.0",
             "latest_version": "1.0.0",
             "force_update": false,
             "store_url": "https://apps.apple.com/app/id..."
           },
           "android": {
-            "base_url": "https://pos-core-api.metfone-pos.cloud/",
-            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "base_url": "https://pos-core-api.nemoditech.vn/",
+            "regist_url": "https://pos-manager-api.nemoditech.vn/api/shops",
             "min_version": "1.0.0",
             "latest_version": "1.0.0",
             "force_update": false,
@@ -86,10 +86,10 @@
         "maintenance_mode": false
       },
       "business_url": "https://raw.githubusercontent.com/hoangdaoduy/nemopos/11afcf1136b16771e4bb74887a7363f75ea8971a/business.json",
-      "term_url":"https://metfone-pos.com/terms",
+      "term_url":"https://pos.nemoditech.vn/privacy/",
       "phone_support":"190081xx",
-      "email_support":"support@metfone-pos.com",
-      "docs_url":"https://metfone-pos.com/docs"
+      "email_support":"info@nemoditech.vn",
+      "docs_url":"https://pos.nemoditech.vn/docs"
     }
   }
 }
