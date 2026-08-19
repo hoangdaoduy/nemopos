@@ -37,15 +37,6 @@
       }
     },
     {
-      "value": "cosmetic",
-      "labels": {
-        "vi": "Mỹ phẩm - Spa",
-        "en": "Cosmetics - Spa",
-        "km": "គ្រឿងសម្អាង - ស្ប៉ា",
-        "my": "အလှကုန် - စပါး"
-      }
-    },
-    {
       "value": "electronics",
       "labels": {
         "vi": "Điện máy - Điện thoại",
