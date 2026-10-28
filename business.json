@@ -55,6 +55,15 @@
       }
     },
     {
+      "value": "parking",
+      "labels": {
+        "vi": "Trông giữ xe - Bãi đỗ xe",
+        "en": "Parking - Parking Lot",
+        "km": "ចំណតរថយន្ត - កន្លែងចតរថយន្ត",
+        "my": "ယာဉ်ရပ်နားစခန်း - ကားပါကင်"
+      }
+    },
+    {
       "value": "other",
       "labels": {
         "vi": "Khác",
