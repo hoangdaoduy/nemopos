@@ -5,16 +5,16 @@
       "environments": {
         "production": {
           "ios": {
-            "base_url": "https://pos-core-api.metfone-pos.com/",
-            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "base_url": "https://pos-core-api-new.metfone-pos.com/",
+            "regist_url": "https://pos-manager-api-new.metfone-pos.com/api/shops",
             "min_version": "1.0.0",
             "latest_version": "1.0.0",
             "force_update": false,
             "store_url": "https://apps.apple.com/app/id..."
           },
           "android": {
-            "base_url": "https://pos-core-api.metfone-pos.com/",
-            "regist_url": "https://pos-manager-api.metfone-pos.com/api/shops",
+            "base_url": "https://pos-core-api-new.metfone-pos.com/",
+            "regist_url": "https://pos-manager-api-new.metfone-pos.com/api/shops",
             "min_version": "1.0.0",
             "latest_version": "5.4.3",
             "force_update": false,
